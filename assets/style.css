@@ -48,11 +48,13 @@ a {
 
 #howWeWork {
 	/*margin-left: 33%;*/
+	font-size: 1.2em;
 	margin-top: 0%;
 	float: right;
 }
 
 #open {
+	font-size: 1.2em;
 	top: 100px;
 	margin-left: 5%;
 	width: 45%;
