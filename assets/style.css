@@ -10,6 +10,14 @@ font-family:LatoBold;
 src: url('./Fonts/Lato/Lato-Bold.tff');
 }
 
+#pageContent {
+	margin-top:10%;
+}
+
+#loading{
+	visibility:hidden;
+}
+
 #mainTitle {
 	color: rgb(100,100,100);
 	top: 25%;
@@ -22,6 +30,15 @@ src: url('./Fonts/Lato/Lato-Bold.tff');
 	position:fixed;
 	top:25px;
 	right:50px;
+}
+
+ul {
+	float:right;
+}
+
+li{
+	list-style:none;
+	float:left;
 }
 
 a {
