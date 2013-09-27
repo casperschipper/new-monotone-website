@@ -30,6 +30,15 @@ html {
 	font-family: 'LatoLight', sans-serif;
 }
 
+#logo {
+	/*background-color: red;*/
+	padding-left:10%;
+	padding-top:1%;	
+	/*left:6%;*/
+	width:6%;
+	min-width: 50px;
+}
+
 #header {
 	overflow:auto;
 	width:100%;
@@ -108,8 +117,43 @@ a.navi {
 /*MONOLAB*/
 #monolab{
 	margin-left:10%;
-	width: 45%;
+	margin-right:10%;
 }
+
+#vimeoVid {
+	width:80%;
+	height:600px; 
+	margin-left:10%;
+	margin-right:10%;
+}
+
+#sonicPaintings {
+	margin-right:10%;
+	margin-left: 10%;
+
+}
+
+h1,h3.center {
+	text-align: center;
+}
+
+#mazeTree {
+	margin-left:10%;
+	margin-right:10%;
+}
+
+#mazePic {
+	width:80%;
+	margin-left:10%;
+}
+
+#monotonetree {
+	overflow: hidden;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+
 
 /*CONTACT*/
 #mailLink {
@@ -122,6 +166,10 @@ a.navi {
 #apps {
 	margin-left:10%;
 	width: 45%;
+}
+
+#appLink {
+	text-decoration: none;
 }
 
 #thijsImage {
