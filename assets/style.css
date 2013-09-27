@@ -20,9 +20,9 @@ src: url('./Fonts/Lato/Lato-Bold.tff');
 
 #mainTitle {
 	color: rgb(100,100,100);
-	top: 25%;
+	top: 25vh;
 	margin-left: 15%;
-	font-size: 120px;
+	font-size: 10.0vw;
 	font-family: 'LatoLight', sans-serif;
 }
 
@@ -57,11 +57,20 @@ a.navi {
 }
 
 
+/*GENERAL*/
+.floatRight {
+	float:;
+}
+
+.normaltext {
+	font-size: 23px;
+	font-family: 'LatoLight';
+}
+
+
 /*ABOUT PAGE*/
 .about {
 	left:5%;
-	font-size: 23px;
-	font-family: 'LatoLight';
 	width: 45%;
 }
 
@@ -94,8 +103,6 @@ a.navi {
 /*MONOLAB*/
 #monolab{
 	margin-left:10%;
-	font-size: 23px;
-	font-family: 'LatoLight';
 	width: 45%;
 }
 
@@ -105,4 +112,15 @@ a.navi {
 	color: rgb(0,0,200);
 	font-size: 50px;
 	margin-left: 67%;
+}
+/*APPS*/
+#apps {
+	margin-left:10%;
+	width: 45%;
+}
+
+#thijsImage {
+	margin-top:5%;
+	float: right;
+	width:40%;
 }
