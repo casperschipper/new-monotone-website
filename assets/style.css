@@ -17,7 +17,7 @@ html {
 }
 
 #pageContent {
-	margin-top:10%;
+	margin-top:130px;
 }
 
 #loading{
@@ -170,10 +170,13 @@ h1,h3.center {
 #mailLink {
 	font-family: 'Lato';
 	font-weight: 300;
+	float:left;
 
 	color: rgb(0,0,200);
 	font-size: 50px;
-	margin-left: 67%;
+	margin-left: 40%;
+	margin-top:30%;
+
 }
 /*APPS*/
 #apps {
